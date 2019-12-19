@@ -12,4 +12,4 @@ What I learnt:
 
 Constraints: During the design I had a major issue where if I changed a padding by a single decimal it would cause the website to look different between the mobile and the desktop version. Currently this is a bug and I am still yet to resolve it.
 
-Improvements: I think I could work on making the images fit slightly in the centre but this would mean rework in the mobile version. 
+Improvements: I think I could work on making the images fit slightly in the centre but this would mean rework in the mobile version. Also only a single page works so maybe in the future I am going to link the pages and have them show different things on the website.
