@@ -2,7 +2,7 @@
 
 ### Description: 
 
-The aim of this project was to create a reponsive website from sctratch. It was a way for me to understand how top create a website that is reponsive on all devices. The proiect teaches me how to use CSS to create a simple design. 
+The aim of this project was to create a responsive website from scratch. It was a way for me to understand how to create a website that is responsive on all devices. The project teaches me how to use CSS to create a simple design. 
 
 ![IMG001](https://user-images.githubusercontent.com/45819118/71176458-d6415780-2261-11ea-969d-5d1decd75651.PNG)
 
@@ -23,4 +23,4 @@ During the design I had a major issue where if I changed a padding by a single d
 
 ### Improvements:
 
-I think I could work on making the images fit slightly in the centre but this would mean rework in the mobile version. Also only a single page works so maybe in the future I am going to link the pages and have them show different things on the website.
+I think I could work on making the images fit slightly in the centre, but this would mean rework in the mobile version. Also, only a single page works so maybe in the future I am going to link the pages and have them show different things on the website.
