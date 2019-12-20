@@ -13,7 +13,7 @@ User loads up the webpage and they will be greeted to the single page.
 
 ### What I learnt:
 - Stronger understanding of HTML and CSS
-- How to use developer tools on chrome
+- How to use developer tools on Chrome & Firefox
 - How to create animation using CSS
 
 
