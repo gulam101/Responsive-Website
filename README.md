@@ -85,7 +85,7 @@ During the design I had a major issue where if I changed a padding by a single d
 
 ### Development Changes:
 
-Development changes tracks the changes that happend to the project. It orders it by date and description .
+Development changes tracks the changes that happend to the project. It orders it by date and description.
 
 
 ### Resources:
