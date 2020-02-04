@@ -58,7 +58,8 @@ This shows how the user loads up the application:
 - Step 1: Clone the project or download it
 - Step 2: Download IDE that can open HTML documents, if you haven't already
 - Step 3: Open the webpage via the browser
-- Step 4: Resize and play around
+- step 4: Activate developer tools
+- Step 5: Resize and play around
 
 ### What I learnt:
 - Stronger understanding of HTML and CSS
