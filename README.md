@@ -19,11 +19,11 @@
 [Improvements](#Improvements)  
 <a name="Improvements"/>
 
-[Ad-Hoc Testing](#Ad-Hoc_Testing)  
-<a name="Ad-Hoc_Testing"/>
-
 [Development Changes](#Development_Changes)  
 <a name="Development_Changes"/>
+
+[Resources](#Resources)  
+<a name="Resources"/>
 
 [Screenshots](#Screenshots)
 <a name="Screenshots"/>
