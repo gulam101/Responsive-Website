@@ -7,8 +7,8 @@
 [Description](#Description)  
 <a name="Description"/>
 
-[Planned Features](#Planned_Features)  
-<a name="Planned_Features"/>
+[Instructions](#Instuctions)  
+<a name="Instructions"/>
 
 [What I learnt](#What_I_Learnt)  
 <a name="What_I_Learnt"/>
