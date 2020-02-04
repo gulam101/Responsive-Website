@@ -68,6 +68,6 @@ I think I could work on making the images fit slightly in the centre, but this w
 ![IMG001](https://user-images.githubusercontent.com/45819118/71176458-d6415780-2261-11ea-969d-5d1decd75651.PNG)
 
 ### Credits:
-Web-design (YT)
-Gulam Qasim (Changed some parts)
+- Web-design (YT)
+- Gulam Qasim (Changed some parts)
 
