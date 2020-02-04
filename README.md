@@ -2,6 +2,37 @@
 
 ## Responsive Website Using HTML5 and CSS3
 
+# Table of Contents
+
+[Description](#Description)  
+<a name="Description"/>
+
+[Planned Features](#Planned_Features)  
+<a name="Planned_Features"/>
+
+[What I learnt](#What_I_Learnt)  
+<a name="What_I_Learnt"/>
+
+[Constraints](#Constraints)  
+<a name="Constraints"/>
+
+[Improvements](#Improvements)  
+<a name="Improvements"/>
+
+[Ad-Hoc Testing](#Ad-Hoc_Testing)  
+<a name="Ad-Hoc_Testing"/>
+
+[Development Changes](#Development_Changes)  
+<a name="Development_Changes"/>
+
+[Screenshots](#Screenshots)
+<a name="Screenshots"/>
+
+[Credits](#Credits)  
+<a name="Credits"/>
+
+
+
 ### Description: 
 
 The aim of this project was to create a responsive website from scratch. It was a way for me to understand how to create a website that is responsive on all devices. The project teaches me how to use CSS to create a simple design. 
