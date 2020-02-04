@@ -45,7 +45,12 @@ It was a way for me to understand how to create a website that is responsive on 
 
 ### Instructions:
 
-User loads up the webpage and they will be greeted to the single page. 
+This shows how the user loads up the application
+
+- Clone the project or download it
+- Download IDE that can open HTML documents
+- Open the webpage via the browser
+- Resize and play around
 
 ### What I learnt:
 - Stronger understanding of HTML and CSS
