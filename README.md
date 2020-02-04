@@ -32,7 +32,6 @@
 <a name="Credits"/>
 
 
-
 ### Description: 
 
 For this project, I only worked on creating a single page and didn't create anything else. It was made to be responsive and it does have a few issues that need to be fixed. The aim of this project was to create a responsive website from scratch. I had learned about HTML and CSS in a web development course which is free for people to watch. And it taught me the basics and then taught me some advanced stuff like how to make it responsive and having a better understanding of a design concept. 
@@ -64,6 +63,12 @@ During the design I had a major issue where if I changed a padding by a single d
 - Description: 
 
 I think I could work on making the images fit slightly in the centre, but this would mean rework in the mobile version. If i get a different picture then I can change it at anytime but for now, I think I will keep this current image and I will play around with the padding so that it can be placed center in the middle of the page.
+
+- Improvement ID: Fix Padding Issue
+- Description: 
+
+During the design I had a major issue where if I changed a padding by a single decimal it would cause the website to look different between the mobile and the desktop version. I think the problem resides within the pixels that I used and if I changed the width and height on the mobile side then I think I can have it fine on the PC section, I will test this idea and give it a fix when I have found the best soultion.
+
 
 
 ### Resources:
