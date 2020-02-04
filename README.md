@@ -91,6 +91,6 @@ During the design I had a major issue where if I changed a padding by a single d
 ![IMG001](https://user-images.githubusercontent.com/45819118/71176458-d6415780-2261-11ea-969d-5d1decd75651.PNG)
 
 ### Credits:
-- Web-design (YT)
+- Web-design (Tutorial)
 - Gulam Qasim (Changed some parts)
 
