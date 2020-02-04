@@ -88,7 +88,6 @@ During the design I had a major issue where if I changed a padding by a single d
 Development changes tracks the changes that happend to the project. It orders it by date and description .
 
 
-
 ### Resources:
 - https://atom.io/ (IDE)
 - https://www.w3schools.com/html/default.asp (For help)
