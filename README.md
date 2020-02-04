@@ -70,7 +70,9 @@ I think I could work on making the images fit slightly in the centre, but this w
 During the design I had a major issue where if I changed a padding by a single decimal it would cause the website to look different between the mobile and the desktop version. I think the problem resides within the pixels that I used and if I changed the width and height on the mobile side then I think I can have it fine on the PC section, I will test this idea and give it a fix when I have found the best soultion.
 
 
-### Development Changes
+### Development Changes:
+
+Development changes tracks the changes that happend to the project. It orders it by date and description .
 
 
 
