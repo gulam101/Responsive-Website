@@ -1,5 +1,7 @@
 # Responsive-Website
 
+## Responsive Website Using HTML5 and CSS3
+
 ### Description: 
 
 The aim of this project was to create a responsive website from scratch. It was a way for me to understand how to create a website that is responsive on all devices. The project teaches me how to use CSS to create a simple design. 
