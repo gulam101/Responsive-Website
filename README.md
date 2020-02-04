@@ -45,6 +45,8 @@ It was a way for me to understand how to create a website that is responsive on 
 
 ![IMG001](https://user-images.githubusercontent.com/45819118/71176458-d6415780-2261-11ea-969d-5d1decd75651.PNG)
 
+### Prerequisites:
+
 
 ### Instructions:
 
