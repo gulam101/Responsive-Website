@@ -61,6 +61,32 @@ During the design I had a major issue where if I changed a padding by a single d
 
 ### Improvements:
 
+### Improvements:
+- Improvement ID: Footer
+- Description: 
+
+I think the first thing I should do is re-add the footer back. I did have a problem with this because it wasn't working as intended. I know the fix, but I decided I would save this for another time. But I was thinking of maybe adding in some social media buttons that would help me style it or use some text and apply animation over it.
+
+- Improvement ID: Video Overlap
+- Description: 
+
+The video works fine in mobile mode however, if you resize the webpage to a certain size it will cause the user to scroll to the side showing an empty space that is not used. I have a few ideas on how I could approach this but for now I will leave this for another time and fix it later. I would rather go through my solutions first and find the best way before attempting to fix the problem.
+
+- Improvement ID: New Logo
+- Description:
+
+I did use a logo off the internet, which was non-copyright. This logo did have a white background which made the columns break, however I can just find a new image with the same height and diameter to solve this problem.
+
+- Improvement ID: Textbox and Image
+- Description:
+
+This problem isn't big but I could change the font size and add an animation to it and I could also work on changing the image for it because it doesn't fit and it has an odd shadow box that just doesn't fit with the image.
+
+- Improvement ID: Navbar Background Color
+- Description: 
+
+I don't like the navbar background so I am going to change it to something else and maybe I might add in an animation so that it changes to another colour when hovered over.
+
 I think I could work on making the images fit slightly in the centre, but this would mean rework in the mobile version. Also, only a single page works so maybe in the future I am going to link the pages and have them show different things on the website.
 
 
