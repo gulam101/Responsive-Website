@@ -60,8 +60,6 @@ User loads up the webpage and they will be greeted to the single page.
 During the design I had a major issue where if I changed a padding by a single decimal it would cause the website to look different between the mobile and the desktop version. Currently this is a bug and I am still yet to resolve it.
 
 ### Improvements:
-
-### Improvements:
 - Improvement ID: Images Center
 - Description: 
 
