@@ -35,7 +35,12 @@
 
 ### Description: 
 
-The aim of this project was to create a responsive website from scratch. It was a way for me to understand how to create a website that is responsive on all devices. The project teaches me how to use CSS to create a simple design. 
+For this project, I only worked on creating a single page and didn't create anything else. It was made to be responsive and it does have a few issues that need to be fixed. The aim of this project was to create a responsive website from scratch. I had learned about HTML and CSS in a web development course which is free for people to watch. And it taught me the basics and then taught me some advanced stuff like how to make it responsive and having a better understanding of a design concept. 
+
+
+There are a lot of other things that I could of used to improve this design and I also did add a lot of aniamtion by just using CSSm because I like it when a page has some animation that does that.
+
+It was a way for me to understand how to create a website that is responsive on all devices. The project teaches me how to use CSS to create a simple design. The course I used was free and it allowed me to develop my knowledge on web development and giving me a chance to expeire3nce a real design.
 
 ![IMG001](https://user-images.githubusercontent.com/45819118/71176458-d6415780-2261-11ea-969d-5d1decd75651.PNG)
 
