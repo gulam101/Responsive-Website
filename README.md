@@ -63,6 +63,22 @@ During the design I had a major issue where if I changed a padding by a single d
 
 I think I could work on making the images fit slightly in the centre, but this would mean rework in the mobile version. Also, only a single page works so maybe in the future I am going to link the pages and have them show different things on the website.
 
+
+### Resources:
+- https://atom.io/ (IDE)
+- https://www.w3schools.com/html/default.asp (For help)
+- https://www.w3schools.com/css/default.asp (For help)
+- Any Modern Browser (Load website)
+- https://unicode-table.com/en/2630/ (Unicode)
+- https://fonts.google.com/specimen/Open+Sans (Google Font)
+- https://www.w3schools.com/js/ (For help)
+- https://www.css3maker.com/css-3-rgba.html (For gradient colour)
+- https://www.youtube.com/watch?v=wwDAvq9MZlQ (Random video)
+- https://www.cssmatic.com/box-shadow (CSS Shadow generator)
+- Google Images (For images)
+- https://www.lipsum.com/ (Dummy test)
+
+
 ### Screenshots:
 
 ![IMG001](https://user-images.githubusercontent.com/45819118/71176458-d6415780-2261-11ea-969d-5d1decd75651.PNG)
