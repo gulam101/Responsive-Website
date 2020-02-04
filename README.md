@@ -99,7 +99,7 @@ Development changes tracks the changes that happend to the project. It orders it
 - https://www.css3maker.com/css-3-rgba.html (For gradient colour)
 - https://www.cssmatic.com/box-shadow (CSS Shadow generator)
 - Google Images (For images)
-- https://www.lipsum.com/ (Dummy test)
+- https://www.lipsum.com/ (Dummy text)
 
 
 ### Screenshots:
