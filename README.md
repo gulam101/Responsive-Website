@@ -1,6 +1,6 @@
 # Responsive-Website
 
-## Responsive Website - HTML5 & CSS3
+## Responsive Website - HTML & CSS
 
 # Table of Contents
 
